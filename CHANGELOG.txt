@@ -1,5 +1,9 @@
 $Id$
 
+Clear saved password field 6.x-1.2
+----------------------------------
+#952848 by kika: Clear both passwords in profile edit form.
+
 Clear saved password field 6.x-1.1
 ----------------------------------
 #908394 by nevets and vstmusic: Add support for login forms.
