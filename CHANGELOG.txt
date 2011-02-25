@@ -1,4 +1,3 @@
-$Id$
 
 Clear saved password field 6.x-1.2
 ----------------------------------
