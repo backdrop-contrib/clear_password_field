@@ -34,13 +34,11 @@ browser's configuration, it just clears the field to improve usability.
 
 -- CONFIGURATION --
 
-You can enable/disable the functionality on the User Settings page
-(admin/user/settings).
+You can enable/disable the functionality on the Account Settings page
+(admin/config/people/accounts).
 
 
 -- CREDITS --
 
-This module was sponsored by Switchback (www.switchbackcms.com)
-
-Author:
-* Victor Kareh (vkareh) - http://www.vkareh.net
+* Developed by Victor Kareh (vkareh) - http://www.vkareh.net
+* Sponsored by Switchback - http://www.switchbackcms.com

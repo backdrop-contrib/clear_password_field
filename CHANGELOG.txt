@@ -1,4 +1,8 @@
 
+Clear saved password field 7.x-1.0
+----------------------------------
+#1048406: Port to Drupal 7.x.
+
 Clear saved password field 6.x-1.2
 ----------------------------------
 #952848 by kika: Clear both passwords in profile edit form.
