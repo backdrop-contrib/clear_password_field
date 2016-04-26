@@ -10,7 +10,7 @@ they recommend setting the `autocomplete` attribute for form fields to `off`.
 
 > For a web application, the 'autocomplete' attribute should be implemented
 > with the value 'off' in rendered HTML form fields, or whole HTML forms,
-> where sensitive data such as passwords are entered.
+> where sensitive data such as passwords are entered...
 
 This module sets the `autocomplete` attribute to `off` for the login,
 user profile, and registration forms. It also uses jQuery to clear password
