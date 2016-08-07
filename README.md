@@ -1,4 +1,4 @@
-Clear Password Field
+Clear password field
 ====================
 
 This [Backdrop](https://backdropcms.org/) module clears common password form fields.
