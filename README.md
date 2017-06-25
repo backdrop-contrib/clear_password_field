@@ -14,7 +14,7 @@ This module sets the `autocomplete` attribute to `off` for the login, user profi
 Current Maintainer
 ------------------
 
-- David Norman (https://github.com/deekayen)
+- None
 
 Credits
 -------
